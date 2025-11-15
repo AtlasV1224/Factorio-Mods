@@ -1,0 +1,6 @@
+require("prototypes.farm-tier-1")
+require("prototypes.if-item-group")
+require("prototypes.recipes.tier-1-seed-processing")
+require("prototypes.technology.tier-1-seeds")
+require("prototypes.tier-1-seeds")
+require("prototypes.recipes.recipe-catagories")

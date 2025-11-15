@@ -1,0 +1,13 @@
+{
+    "name": "av-tweaks",
+    "version": "0.0.1",
+    "factorio_version": "2.0",
+    "title": "AV Tweaks",
+    "author": "AtlasV",
+    "contact": "",
+    "homepage": "https://github.com/AtlasV1224/factorio-mods",
+    "dependencies": [
+      "base >= 2.0"
+    ],
+    "description": "This mod adds a variety of different tweaks to the game from recipe changes, to balance changes, and even new machines in the future.\n\nThe entire mod is made to be as customisable as possible and so will have a lot of config options so that you can customise it to your liking.\n\nFor a full list of tweaks and changes, visit the homepage."
+  }
