@@ -1,7 +1,5 @@
 # Factorio Mods
 
-# Factorio Mods
-
 ## Overview
 
 This repo houses a collection of Factorio mods I have made. Most of them are available on the Factorio mod portal, that is where you will find the mods that at their most stable, in this repo however, you are likely to find the mods that are also unstab;e, indevelopment, or entirely abandoned.
