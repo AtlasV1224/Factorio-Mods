@@ -1,5 +1,5 @@
 for mod_name in pairs(mods) do
-  local path = "__av-tweaks__/prototypes/compat/" .. mod_name .. "/compat-updates.lua"
+  local path = "__av-tweaks__/prototypes/compat/" .. mod_name .. "/compat-final-fixes.lua"
 
 	local ok, err = pcall(require, path)
 	-- Prod implimentation

@@ -1,11 +1,9 @@
-log("LOADING thruster steam recipe")
-
 local recipe = {
     type ="recipe",
     name ="av-thruster-fuel-to-steam",
     category ="chemistry",
     icon ="__base__/graphics/icons/fluid/steam.png",
-    subgroup = "sulfur",
+    subgroup = "fluid",
     order = "zz",
     enabled = true,
     ingredients =
