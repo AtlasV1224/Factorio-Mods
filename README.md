@@ -1,13 +1,9 @@
-# Factorio Mods
-
+# AV Tweaks
 ## Overview
+This mod adds a variety of different tweaks to the game from recipe changes, to balance changes, and even new machines in the future.
 
-This repo houses a collection of Factorio mods I have made. Most of them are available on the Factorio mod portal, that is where you will find the mods that at their most stable, in this repo however, you are likely to find the mods that are also unstab;e, indevelopment, or entirely abandoned.
+The entire mod is made to be as customisable as possible and so will have a lot of config options so that you can customise it to your liking.
+## Information
+Status: Active
 
-Each folder in the repo is a seperate mod, for more info specific to the mod itself will be detailed in a README file inside the mod folder, an overview however can be found below.
-
-## Contents
-
-### Mods
-*   **[Industrial Flora](./Industrial%20Flora/)**: Allows for the production of raw materials through plant based manufacturing.
-*   **[AV Tweaks](./AV%20Tweaks/)**: Adds a variety of different minor tweaks to the game, mostly a personal mod, however everything is customisable.
+## Tweaks
